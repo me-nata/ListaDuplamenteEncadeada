@@ -63,6 +63,7 @@ void mostrarLista(C_lista *lista){
         aux = aux->prox;
     }
     printf("_-_");
+    printf("\n");
 }
 
 int main(){
